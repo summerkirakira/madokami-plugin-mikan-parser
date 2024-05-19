@@ -1,0 +1,1 @@
+Madokami内置插件，为Madokami项目提供Mikan Project源的解析，搜索与下载功能。
